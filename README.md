@@ -89,6 +89,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Monzo](https://monzo.com/) – Digital bank with built-in budgeting tools.
 - [Revolut](https://www.revolut.com/) – Financial super app with banking, cards, and analytics.
 - [Emma](https://emma-app.com/) – Personal finance app for tracking spending and subscriptions.
+- [BankBridge](https://bankbridge.money?ref=awesome-fintech) – Hosted MCP server that gives AI assistants read-only access to your bank, card, and investment accounts for spending, subscription, and cashflow questions (paid, $5/mo per connected bank).
 
 ## Financial Data & Market APIs
 
